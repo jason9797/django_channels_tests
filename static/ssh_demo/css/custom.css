@@ -1,0 +1,9 @@
+.run_command{
+    margin-left: 30%;
+}
+#ssh_content{
+    padding-top: 5%;
+}
+.white-space-pre {
+    white-space: pre-wrap;
+}
